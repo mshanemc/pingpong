@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#E75D4D</headerColor>
+        <logo>maxim_pingpong_right</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Ping Pong</label>
+    <navType>Standard</navType>
+    <tabs>Player__c</tabs>
+    <tabs>Tournament__c</tabs>
+    <tabs>Match__c</tabs>
+    <tabs>Game__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Ping_Pong_UtilityBar</utilityBar>
+</CustomApplication>
