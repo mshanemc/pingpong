@@ -1,7 +1,7 @@
 {
   "orgName": "pingpong",
   "edition": "Developer",
-  "features": ["EinsteinBuilder"],
+  "features": ["EinsteinBuilderFree"],
   "settings": {
     "orgPreferenceSettings": {
       "networksEnabled": false,
